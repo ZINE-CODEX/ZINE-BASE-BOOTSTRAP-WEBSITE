@@ -1,0 +1,13 @@
+*{
+	font-family: Monsterrat;
+}
+#leftbar{
+	float: left;
+}
+#services1{
+	text-align: center;
+}
+#contact{
+	float: right;
+	margin-bottom: 70px;
+}
